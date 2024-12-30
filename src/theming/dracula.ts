@@ -198,4 +198,7 @@ export const draculaTheme: ThemeDefinition = {
   tooltipText: '#f8f8f2',
   tooltipBackground: '#44475a',
   tooltipBorder: '#bd93f9',
+
+  checkboxBorderSelected: '#50fa7b',
+  checkboxBackgroundSelected: '#50fa7b'
 };
